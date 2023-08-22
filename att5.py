@@ -1,3 +1,4 @@
+print("5 ) Peça ao usuário para inserir sua idade. Verifique se ele é menor de idade (menor que 18) ou não.\n")
 idade = int(input("Digite sua idade\n"));
 if(idade < 0):
   print("Viagem no tempo?");

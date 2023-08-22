@@ -1,3 +1,4 @@
+print("10) Crie uma variável chamada saldo e atribua um valor inicial. Simule operações de depósito e saque, atualizando o saldo.\n")
 saldo = float(input("Digite o seu saldo:\n"))
 opcao = int(input("Digite a opção que deseja acessar [1] SAQUE [2] DEPOSITO"))
 if(opcao == 1):
